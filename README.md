@@ -1,4 +1,4 @@
-# petfriendly
+# Pet Friendly
 
 O projeto PetFriendly surgiu em dezembro de 2020 com uma meta de aprimorar meus conhecimentos em desenvolvimento de sistemas.
 
